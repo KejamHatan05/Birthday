@@ -1,4 +1,4 @@
-# 🎂 Happy Birthday Special — Interactive Web Experience
+# Happy Birthday Special — Interactive Web Experience
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=A+Special+Birthday+Surprise+🎉;Made+with+Love+%26+Code+💖;Happy+Birthday+Ahmad+Haifullah!+🎂" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌸 Preview
+## Preview
 
 <p align="center">
   <img src="https://media.giphy.com/media/YKUvclrGYmDKXwtphf/giphy.gif" width="180" />
@@ -28,15 +28,15 @@
 
 ---
 
-## 🎉 About This Project
+## About This Project
 
 A fully interactive **Happy Birthday** web experience built with pure HTML, CSS, and JavaScript — no frameworks needed. Designed as a personal digital gift featuring animations, music, a love letter modal, a 3D cake, and a scratch card.
 
-> 💌 *"Sometimes the best gift you can give someone is something you built yourself."*
+> *"Sometimes the best gift you can give someone is something you built yourself."*
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
@@ -52,7 +52,7 @@ A fully interactive **Happy Birthday** web experience built with pure HTML, CSS,
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@ A fully interactive **Happy Birthday** web experience built with pure HTML, CSS,
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 birthday-special/
@@ -86,7 +86,7 @@ birthday-special/
 
 ---
 
-## 🚀 How to Use / Customize
+##  How to Use / Customize
 
 **1. Clone or download this repo**
 ```bash
@@ -112,19 +112,19 @@ let titleLetter   = "Untuk Ahmad Haifullah";   // Judul surat
 
 ---
 
-## 🎨 Color Palette
+## Color Palette
 
 | Color | Hex | Usage |
 |---|---|---|
-| 🌸 Pink | `#ff4d6d` | Primary accent, buttons, hearts |
-| 💜 Purple | `#c77dff` | Birthday text, secondary accent |
-| 💛 Gold | `#ffd60a` | Scratch card, confetti |
-| 🤍 White | `#ffffff` | Cards, modals background |
-| 🌑 Dark | `#1a1a2e` | Text, name display |
+|  Pink | `#ff4d6d` | Primary accent, buttons, hearts |
+|  Purple | `#c77dff` | Birthday text, secondary accent |
+|  Gold | `#ffd60a` | Scratch card, confetti |
+|  White | `#ffffff` | Cards, modals background |
+|  Dark | `#1a1a2e` | Text, name display |
 
 ---
 
-## 💡 Customization Ideas
+##  Customization Ideas
 
 - 🖼️ Replace GIF images with your own photos
 - 🎵 Swap `music.mp3` with their favorite song
@@ -134,7 +134,7 @@ let titleLetter   = "Untuk Ahmad Haifullah";   // Judul surat
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
@@ -142,7 +142,7 @@ Feel free to fork and personalize it for someone special! 💖
 
 ---
 
-## 👤 Author
+##  Author
 
 <p align="center">
   Made with 💖 by <b>@KejamHatan05</b><br><br>
